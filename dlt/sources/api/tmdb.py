@@ -1,4 +1,3 @@
-import os
 import dlt
 from dlt.sources.helpers.rest_client import RESTClient
 from dlt.sources.helpers.rest_client.auth import BearerTokenAuth
