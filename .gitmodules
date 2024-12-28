@@ -1,3 +1,4 @@
 [submodule "dlt"]
 	path = dlt
 	url = https://github.com/alanmmolina/lakeground-dlt.git
+	branch = main
